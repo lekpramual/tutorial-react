@@ -14,9 +14,9 @@ Tutorial React
 Create React App   https://github.com/facebook/create-react-app 
 
 คำสั่งติดตั้ง
-	npx create-react-app my-app
-	cd my-app 
-	npm start
+	- 	npx create-react-app my-app
+    - 	cd my-app 
+    - 	npm start
 
 โครงสร้างไฟล์
 - node_modules คือ ไฟล์ที่ใช้ในการจัดการ Libary ( npm ) ต่างๆ ที่เราติดตั้ง 
