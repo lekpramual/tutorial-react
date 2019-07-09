@@ -1,10 +1,13 @@
 import React from 'react';
-import './App.css';
-import { Routers } from './routers';
+import Roters from './routers';
+import {Footers2} from './components';
+
 function App() {
   return (
-    <div className="App">
-      <Routers />
+    <div>
+      <Roters/>
+      <hr/>
+      <Footers2/>
     </div>
   );
 }
